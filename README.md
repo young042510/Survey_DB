@@ -9,3 +9,14 @@
          
 
   <h1>1. 요구사항 명세서 </h1>
+  
+![요구사항 명세서](https://github.com/user-attachments/assets/7ea0dedd-8cf6-45be-8da8-5dfa9e4ff49a)
+
+<h1> 2. 테이블 명세서 </h1>
+
+![테이블 명세서](https://github.com/user-attachments/assets/db2d7b98-5054-446e-bc5f-6a03c206f5e5)
+
+<h1> 3. 물리적스키마</h1>
+
+![물리적스키마](https://github.com/user-attachments/assets/ff18df6f-5e8a-490a-b6a6-f9473fb76dd1)
+
